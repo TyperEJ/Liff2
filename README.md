@@ -8,3 +8,5 @@
 | Get Profile  | Gets the current user's profile.  | ✅ | ✅ |
 | Log In  | Performs LINE Login for web apps. Once the user is authenticated and authorized, the LIFF app will be able to obtain information such as access token and user profile.  | ❌ | ✅ |
 | Log Out |  Logs out the user. | ✅ | ✅ |
+
+copy by https://github.com/line/line-liff-v2-starter
